@@ -1,0 +1,36 @@
+# HealthGraph
+
+> HealthGraph ist ein privater Gesundheitsgraph für Android: Puls per Handykamera, Schlaf, Medikamente, Ernährung, Zyklus und Befunde an einem Ort. Die Daten bleiben zuerst auf dem Gerät. Kein Medizinprodukt, keine Diagnosen. Kostenlos startbar, General 11 €/Monat, All-in 18 €/Monat. Deutsch, DSGVO-konform, kein Wearable nötig.
+
+## Kerndaten
+
+- Produkt: HealthGraph, Wellness-Begleiter für Android
+- Sprache und Markt: Deutsch, Deutschland
+- Preis: 0 € kostenlos, 11 €/Monat General, 18 €/Monat All-in
+- Datenhaltung: lokal zuerst, Cloud nur als freiwilliges Backup
+- Kein Verkauf von Gesundheitsdaten, keine Werbe-Cookies, keine Analyse-Cookies
+- Puls und HRV: Finger auf die Kamera oder Selfie-Video, Auswertung auf dem Gerät
+- Kein Medizinprodukt, keine medizinische Beratung
+- Früher Zugang: Warteliste per E-Mail über hello@healthgraph.shop
+
+## Seiten
+
+- [Startseite](https://healthgraph.shop/): Produkt, Funktionen, App-Einblicke, Alltag, Datenschutz, Preise, früher Zugang
+- [Antworten](https://healthgraph.shop/antworten/): 54 Fragen und Antworten zu Puls, Schlaf, Medikamenten, Ernährung, Zyklus, Daten und Preisen
+- [Datenschutz](https://healthgraph.shop/datenschutz/): Datenschutzerklärung mit Datenfluss und Betroffenenrechten
+- [Impressum](https://healthgraph.shop/impressum/): Anbieterkennzeichnung
+
+## Funktionen
+
+- Messen: Kamera-Puls, Selfie-Puls, HRV, Schlafqualität, Stimmung, Symptome, Barcode-Scan
+- Verstehen: Zusammenhänge im Graph, Wochenrückblick, eigene Baseline, Fragen an die eigenen Daten
+- Verwalten: Medikamente und Dosen, Vorräte, Befunde und Dokumente, Zyklus, Familie
+- Handeln: Check-in per Stimme, nächster Schritt, Arzt-Export, Family Watch mit manueller Freigabe
+
+## Abgrenzung
+
+HealthGraph ersetzt keine ärztliche Beratung, Diagnose oder Behandlung. Bei Beschwerden ist ärztlicher Rat einzuholen. Die App ist kein Medizinprodukt im Sinne der EU-MDR.
+
+## Kontakt
+
+hello@healthgraph.shop

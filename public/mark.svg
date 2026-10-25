@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40" role="img" aria-label="HealthGraph">
+  <defs>
+    <linearGradient id="hg" x1="4" y1="2" x2="36" y2="38" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7ff5e0"/>
+      <stop offset="0.55" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+  </defs>
+  <rect width="40" height="40" rx="12" fill="url(#hg)"/>
+  <rect x="0.75" y="0.75" width="38.5" height="38.5" rx="11.25" fill="none" stroke="#fff" stroke-opacity="0.32" stroke-width="1.5"/>
+  <path d="M7.5 23.2h4.9l3.1-9.4 4.4 14.6 3-8.2h5.6" fill="none" stroke="#06231d" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="7.5" cy="23.2" r="1.8" fill="#06231d"/>
+  <circle cx="32.5" cy="20.2" r="1.8" fill="#06231d"/>
+</svg>
